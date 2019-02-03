@@ -1,0 +1,41 @@
+{
+  "name": "scroll",
+  "version": "1.0.0",
+  "description": "Simple plugin jQuery",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoSaibert/simple-scroll.git"
+  },
+  "keywords": [
+    "Plugin",
+    "jQuery",
+    "Scroll",
+    "plugin"
+  ],
+  "author": "Bruno Henrique Saibert",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.3.1",
+    "merge-stream": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp-babel": "^7.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/BrunoSaibert/simple-scroll/issues"
+  },
+  "homepage": "https://github.com/BrunoSaibert/simple-scroll#readme"
+}
